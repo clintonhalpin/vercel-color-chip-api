@@ -20,7 +20,7 @@ Examples
 
 ![blue](https://vercel-color-chip-api.vercel.app/api/color-chip?hex=0b2942&w=200&h=6)
 
-![darker](https://vercel-color-chip-api.vercel.app/api/color-chip?hex=01111d&w=200&h=6)
+![darker](https://vercel-color-chip-api.vercel.app/api/color-chip?hex=4493f8&w=200&h=6)
 
 ![light](https://vercel-color-chip-api.vercel.app/api/color-chip?hex=a2bffc&w=200&h=6)
 
