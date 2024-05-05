@@ -1,6 +1,8 @@
 # vercel-color-chip-api
 A simple API to generate images of colors
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/clintonhalpin/vercel-color-chip-api.git)
+
 Get Started
 ```
 pnpm i
