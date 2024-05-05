@@ -2,7 +2,6 @@
   "name": "vercel-color-chip-api",
   "version": "1.0.0",
   "description": "A simple API to generate images of colors",
-  "type": "module",
   "dependencies": {
     "@napi-rs/canvas": "0.1.30"
   },
