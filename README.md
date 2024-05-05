@@ -33,6 +33,19 @@ Examples
     <td><img src="https://vercel-color-chip-api.vercel.app/api/color-chip?hex=1e40af&h=12" /></td>
     <td><img src="https://vercel-color-chip-api.vercel.app/api/color-chip?hex=1e3a8a&h=12" /></td>
     <td><img src="https://vercel-color-chip-api.vercel.app/api/color-chip?hex=172554&h=12" /></td>
-  </tr>
+   </tr>
+      <tr>
+          <td><img src="https://vercel-color-chip-api.vercel.app/api/color-chip?hex=ecfdf5&h=12" /></td>
+<td><img src="https://vercel-color-chip-api.vercel.app/api/color-chip?hex=d1fae5&h=12" /></td>
+<td><img src="https://vercel-color-chip-api.vercel.app/api/color-chip?hex=a7f3d0&h=12" /></td>
+<td><img src="https://vercel-color-chip-api.vercel.app/api/color-chip?hex=6ee7b7&h=12" /></td>
+<td><img src="https://vercel-color-chip-api.vercel.app/api/color-chip?hex=34d399&h=12" /></td>
+<td><img src="https://vercel-color-chip-api.vercel.app/api/color-chip?hex=10b981&h=12" /></td>
+<td><img src="https://vercel-color-chip-api.vercel.app/api/color-chip?hex=059669&h=12" /></td>
+<td><img src="https://vercel-color-chip-api.vercel.app/api/color-chip?hex=047857&h=12" /></td>
+<td><img src="https://vercel-color-chip-api.vercel.app/api/color-chip?hex=065f46&h=12" /></td>
+<td><img src="https://vercel-color-chip-api.vercel.app/api/color-chip?hex=064e3b&h=12" /></td>
+<td><img src="https://vercel-color-chip-api.vercel.app/api/color-chip?hex=022c22&h=12" /></td>
+      </tr>
   </tbody>    
 </table>
